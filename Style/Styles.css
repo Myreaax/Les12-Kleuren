@@ -1,0 +1,114 @@
+table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  td {
+    padding: 10px;
+    text-align: center;
+  }
+  
+  #cell1
+  {
+    color:#d298f7;
+    background-color:#211036;
+    width: 30px;
+    height: 20px;
+    }
+  #cell2
+  {
+    background-color: #b905b6;
+    width: 30px;
+    height: 20px;
+    }
+    #cell3
+  {
+    color:#db7cd5;
+    background-color: #724164;
+    width: 30px;
+    height: 20px;
+    }
+    #cell4
+  {
+    background-color: #c159d3;
+    width: 30px;
+    height: 20px;
+    }
+    #cell5
+  {
+    color:#cceeac;
+    background-color: #044800;
+    width: 30px;
+    height: 20px;
+    } 
+    #cell6
+  {
+    background-color: #228222;
+    width: 30px;
+    height: 20px;
+    } 
+    #cell7
+  {
+    color:#6eea03;
+    background-color: #346d2e;
+    width: 30px;
+    height: 20px;
+    } 
+    #cell8
+  {
+    background-color: #1fd546;
+    width: 30px;
+    height: 20px;
+    } 
+    #cell9
+  {
+    color:#70e1e9;
+    background-color: #0117a4;
+    width: 30px;
+    height: 20px;
+    } 
+    #cell10
+  {
+    background-color: #7fbef1;
+    width: 30px;
+    height: 20px;
+    } 
+    #cell11
+  {
+    color:#161818;
+    background-color: #0027ea;
+    width: 30px;
+    height: 20px;
+    } 
+    #cell12
+  {
+    background-color: #419ae2;
+    width: 30px;
+    height: 20px;
+    } 
+    #cell13
+  {
+    color:#edc5c5;
+    background-color: #ba2e00;
+    width: 30px;
+    height: 20px;
+    } 
+    #cell14
+  {
+    background-color: #f1bd37;
+    width: 30px;
+    height: 20px;
+    } 
+    #cell15
+  {
+    color:#180605;
+    background-color: #d43021;
+    width: 30px;
+    height: 20px;
+    } 
+    #cell16
+  {
+    background-color: #d24a20;
+    width: 30px;
+    height: 20px;
+    } 
